@@ -1,0 +1,10 @@
+{
+  "name": "electron-vue",
+  "version": "0.1.0",
+  "description": "The Electron Vue VS Code theme for Claude: slate-navy panels, Vue green accents, and a faint dot-grid chat. Toggle with /electron-vue.",
+  "author": { "name": "nilswhite" },
+  "homepage": "https://github.com/nilswhite/electron-vue-theme",
+  "repository": "https://github.com/nilswhite/electron-vue-theme",
+  "license": "MIT",
+  "keywords": ["theme", "backdrop", "vscode", "electron-vue", "dot-grid", "dark"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "electron-vue-theme",
+  "owner": { "name": "nilswhite" },
+  "plugins": [
+    {
+      "name": "electron-vue",
+      "source": "./",
+      "description": "The Electron Vue VS Code theme for Claude: slate-navy panels, Vue green accents, and a faint dot-grid chat."
+    }
+  ]
+}
